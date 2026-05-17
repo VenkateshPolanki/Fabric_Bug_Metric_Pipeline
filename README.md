@@ -1,6 +1,6 @@
 # Fabric Bug Metric Pipeline
 
-## Project Overview
+## Project Overview:
 
 This project implements an end-to-end Microsoft Fabric data engineering solution using Medallion Architecture (Bronze, Silver, Gold) to analyze Azure DevOps work item bug metrics.
 
